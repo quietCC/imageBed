@@ -1,2 +1,1 @@
-# imageBed
-BlogImage
+# github_imageBed
